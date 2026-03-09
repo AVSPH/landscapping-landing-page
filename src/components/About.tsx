@@ -43,7 +43,7 @@ export default function About() {
 
           <div className="rounded-3xl overflow-hidden h-80">
             <img 
-              src="https://images.unsplash.com/photo-1416879598556-33b63e11c9f5?auto=format&fit=crop&q=80" 
+              src="/planting.png" 
               alt="Planting" 
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

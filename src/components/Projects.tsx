@@ -4,7 +4,7 @@ export default function Projects() {
   const projects = [
     {
       title: "Residential Garden Makeover",
-      image: "https://images.unsplash.com/photo-1558904541-efa843a96f0f?auto=format&fit=crop&q=80",
+      image: "/makeover.png",
       height: "h-[500px]",
       marginTop: "mt-0"
     },
@@ -16,7 +16,7 @@ export default function Projects() {
     },
     {
       title: "Eco-Friendly Urban Garden",
-      image: "https://images.unsplash.com/photo-1592424001809-541578f24456?auto=format&fit=crop&q=80",
+      image: "/eco-garden.png",
       height: "h-[450px]",
       marginTop: "lg:mt-12"
     },
